@@ -1,0 +1,48 @@
+Open-source software (OSS) is a type of computer software in which source code is released under a license in which the copyright holder grants users the rights to study, change, and distribute the software to anyone and for any purpose.[1] Open-source software may be developed in a collaborative public manner. Open-source software is a prominent example of open collaboration.[2]
+
+Open-source software development can bring in diverse perspectives beyond those of a single company. A 2008 report by the Standish Group stated that adoption of open-source software models have resulted in savings of about $60 billion (£48 billion) per year for consumers.[3][4]
+
+
+Contents
+1	History
+1.1	End of 1990s: Foundation of the Open Source Initiative
+2	Definitions
+2.1	Open-source software licensing
+2.2	Certifications
+3	Open-source software development
+3.1	Development model
+3.2	Advantages and disadvantages
+3.3	Development tools
+3.4	Organization
+3.5	Funding
+4	Comparisons with other software licensing/development models
+4.1	Closed source / proprietary software
+4.2	Free software
+4.3	Open-source versus source-available
+4.4	Open-sourcing
+5	Current applications and adoption
+5.1	Widely used open-source software
+6	Extensions for non-software use
+7	See also
+8	References
+9	Further reading
+10	External links
+History
+Further information: History of free and open-source software
+End of 1990s: Foundation of the Open Source Initiative
+In the early days of computing, programmers and developers shared software in order to learn from each other and evolve the field of computing. Eventually, the open-source notion moved to the way side of commercialization of software in the years 1970–1980. However, academics still often developed software collaboratively. For example, Donald Knuth in 1979 with the TeX typesetting system[5] or Richard Stallman in 1983 with the GNU operating system.[6] In 1997, Eric Raymond published The Cathedral and the Bazaar, a reflective analysis of the hacker community and free-software principles. The paper received significant attention in early 1998, and was one factor in motivating Netscape Communications Corporation to release their popular Netscape Communicator Internet suite as free software. This source code subsequently became the basis behind SeaMonkey, Mozilla Firefox, Thunderbird and KompoZer.
+
+Netscape's act prompted Raymond and others to look into how to bring the Free Software Foundation's free software ideas and perceived benefits to the commercial software industry. They concluded that FSF's social activism was not appealing to companies like Netscape, and looked for a way to rebrand the free software movement to emphasize the business potential of sharing and collaborating on software source code.[7] The new term they chose was "open source", which was soon adopted by Bruce Perens, publisher Tim O'Reilly, Linus Torvalds, and others. The Open Source Initiative was founded in February 1998 to encourage use of the new term and evangelize open-source principles.[8]
+
+While the Open Source Initiative sought to encourage the use of the new term and evangelize the principles it adhered to, commercial software vendors found themselves increasingly threatened by the concept of freely distributed software and universal access to an application's source code. A Microsoft executive publicly stated in 2001 that "open source is an intellectual property destroyer. I can't imagine something that could be worse than this for the software business and the intellectual-property business."[9] However, while Free and open-source software has historically played a role outside of the mainstream of private software development, companies as large as Microsoft have begun to develop official open-source presences on the Internet. IBM, Oracle, Google and State Farm are just a few of the companies with a serious public stake in today's competitive open-source market. There has been a significant shift in the corporate philosophy concerning the development of FOSS.[10]
+
+The free-software movement was launched in 1983. In 1998, a group of individuals advocated that the term free software should be replaced by open-source software (OSS) as an expression which is less ambiguous[11][12][13] and more comfortable for the corporate world.[14] Software developers may want to publish their software with an open-source license, so that anybody may also develop the same software or understand its internal functioning. With open-source software, generally anyone is allowed to create modifications of it, port it to new operating systems and instruction set architectures, share it with others or, in some cases, market it. Scholars Casson and Ryan have pointed out several policy-based reasons for adoption of open source – in particular, the heightened value proposition from open source (when compared to most proprietary formats) in the following categories:
+
+Security
+Affordability
+Transparency
+Perpetuity
+Interoperability
+Flexibility
+Localization – particularly in the context of local governments (who make software decisions). Casson and Ryan argue that "governments have an inherent responsibility and fiduciary duty to taxpayers" which includes the careful analysis of these factors when deciding to purchase proprietary software or implement an open-source option.[15]
+The Open Source Definition presents an open-source philosophy and further defines the terms of use, modification and redistribution of open-source software. Software licenses grant rights to users which would otherwise be reserved by copyright law to the copyright holder. Several open-source software licenses have qualified within the boundaries of the Open Source Definition. The most prominent and popular exa
